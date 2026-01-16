@@ -1,0 +1,22 @@
+Terminal aesthetic with green text on black background
+Weather data including:
+
+Temperature & feels-like temp
+Humidity & cloud cover
+Wind speed (km/h and knots), direction, and gusts
+Atmospheric pressure
+Precipitation
+Weather conditions
+
+
+Flight tracking with all previously requested data
+Auto-refresh every 15 seconds
+Interactive commands:
+
+Type refresh to update immediately
+Type help to see available commands
+Type clear to clear the terminal
+
+
+
+The weather data comes from Open-Meteo (free, no API key needed) and updates in real-time alongside flight information. The CLI design gives it that authentic terminal/hacker vibe!
